@@ -4,7 +4,7 @@ NAME:SHIVAM KUMAR
 INTERN ID:CT04DZ1040
 DODMAIN:FRONT END DEVELOPMENT
 DURATION:4 WEEKS
-MENTOR: NEELA SSANTOSH 
+MENTOR: NEELA SANTOSH 
 
 DESCRIPTION:
 This project implements a **Convolutional Neural Network (CNN)** using **PyTorch** for image classification.  
